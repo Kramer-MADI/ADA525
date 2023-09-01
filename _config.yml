@@ -1,6 +1,6 @@
 #git add .
 #git commit -m "_config.yml"
-#git push origin gh_pages
+#git push origin gh-pages
 #
 # Welcome to Jekyll!
 #
