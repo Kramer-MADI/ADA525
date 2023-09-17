@@ -7,4 +7,4 @@ categories: jekyll update
 
 `Første prototype av skinner og hjul`
 
-![Front av hjul](ADA525/assets/IMG_0144.jpeg)
+![Front av hjul](assests/IMG_0144.jpeg)
