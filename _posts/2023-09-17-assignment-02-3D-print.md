@@ -7,7 +7,7 @@ categories: jekyll update
 
 `Første prototype av skinner og hjul`
 
-![Front av hjul](Kramer-MADI/ADA525/blob/gh-pages/assests/IMG_0144.jpeg)
-![bakside av hjul](Kramer-MADI/ADA525/blob/gh-pages/assests/IMG_0142.jpeg)
-![mutter hull](Kramer-MADI/ADA525/blob/gh-pages/assests/IMG_0147.jpeg)
+![Front av hjul](assests/front.jpeg)
+![bakside av hjul](assests/back.jpeg)
+![mutter hull](assests/bolts.jpeg)
 
