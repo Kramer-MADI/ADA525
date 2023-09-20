@@ -16,4 +16,4 @@ Videre i prosessen er målet å bruke disse delene til å lage en penn-plotter, 
 ![CAD modell bilde 3](https://github.com/Kramer-MADI/ADA525/blob/gh-pages/assets/01-3.PNG?raw=true)
 ![CAD modell bilde 4](https://github.com/Kramer-MADI/ADA525/blob/gh-pages/assets/01-4.PNG?raw=true)
 ![CAD modell bilde 5](https://github.com/Kramer-MADI/ADA525/blob/gh-pages/assets/01-5.PNG?raw=true)
-![CAD modell bilde 6](https://github.com/Kramer-MADI/ADA525/blob/gh-pages/assets/01-6.PNG?raw=true)
+![CAD modell bilde 6](assets/01-5.PNG?raw=true)
