@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Assignment 02 3D Print"
+title:  "Assignment-03-Laser-Cutting"
 date:   2023-09-01 16:05:56 +0200
 categories: jekyll update
 ---
