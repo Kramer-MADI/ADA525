@@ -27,3 +27,10 @@ Dette passet jo ikke med utgangspunktet at topp og bunn platen er identisk. Så 
 ![Cad illustrasjon 2. utgave](https://github.com/Kramer-MADI/ADA525/blob/gh-pages/assets/03-4.png?raw=true)
 
 Ser ut til å stemme klar for å laserkuttes.
+
+![Resultat](https://github.com/Kramer-MADI/ADA525/blob/gh-pages/assets/03-5.jpg?raw=true)
+![rotert boks](https://github.com/Kramer-MADI/ADA525/blob/gh-pages/assets/03-6.jpg?raw=true)
+
+Konklusjon:
+
+Resultatet ble ikke helt som tenkt. Etter å ha laserkuttet platene og satt dem sammen, henger ikke konstruksjonen særlig godt sammen sammenlignet med hva jeg hadde sett for meg. Prøvde å kutte flere ganger med å endre offset på joints i forskjellige størrelser både i Fusion og på maskinen. Etter ulike forsøk ser det ut til at designet trenger noen små endringer. Virker som konstruksjonen fungerer dårlig fordi finger-jointsene er for små. Teorien min er at når det da blir veldig mange og små joints blir det fjernet litt for mye materiale av laseren på hvert innhukk. For slik tegningen så ut til slutt i Fusion skulle det ikke vært mulig å presse platene sammen. 
